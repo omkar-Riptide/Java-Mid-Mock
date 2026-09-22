@@ -1,3 +1,123 @@
+<div align="center">
+
+![Java Core Concepts | Web-Slinging Through OOP](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B0000,100:1E3A8A&text=Java%20Core%20Concepts%20%7C%20Web-Slinging%20Through%20OOP&fontColor=FFFFFF&fontSize=36&fontAlignY=38&animation=twinkling&desc=Inheritance%20%7C%20Polymorphism%20%7C%20Streams%20%7C%20Threads&descAlignY=58&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=With+Great+Power+Comes+Great+OOP;Inheritance.+Polymorphism.+Multithreading.;Your+Friendly+Neighborhood+Java+Repo)](https://git.io/typing-svg)
+
+![Java](https://img.shields.io/badge/Java-8%2B-8B0000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1E3A8A)
+![License](https://img.shields.io/github/license/omkar-Riptide/Java-Mid-Mock?style=for-the-badge&labelColor=1E3A8A&color=8B0000)
+![Stars](https://img.shields.io/github/stars/omkar-Riptide/Java-Mid-Mock?style=for-the-badge&logo=github&labelColor=1E3A8A&color=8B0000)
+![Forks](https://img.shields.io/github/forks/omkar-Riptide/Java-Mid-Mock?style=for-the-badge&logo=github&labelColor=1E3A8A&color=8B0000)
+![Last Commit](https://img.shields.io/github/last-commit/omkar-Riptide/Java-Mid-Mock?style=for-the-badge&labelColor=1E3A8A&color=8B0000)
+
+</div>
+
+## 🕷️ Spider-Verse Contents
+
+- [🕸️ Inheritance — Web of Relationships](#inheritance)
+- [🎭 Polymorphism — Many Faces, One Hero](#polymorphism)
+- [🛡️ Abstraction & Encapsulation — Hidden Identity](#abstraction-encapsulation)
+- [⚠️ Exception Handling — When Things Go Wrong (Villain Alert!)](#exception-handling)
+- [⚡ Lambda Functions — Quick Reflexes](#lambda-functions)
+- [🌊 Stream API — Web-Slinging Through Data](#stream-api)
+- [🔗 Interfaces — The Avengers Contract](#interfaces)
+- [🕷️ Threading/Multithreading — Multiverse of Madness](#threading-multithreading)
+
+<div align="center">
+
+## 🕸️ Hero Dashboard
+
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omkar-Riptide&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=1E3A8A&bg_color=0D1117&hide_border=true" />
+    </td>
+    <td>
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=omkar-Riptide&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=1E3A8A" />
+    </td>
+    <td>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-Riptide&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=1E3A8A&bg_color=0D1117&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<a id="inheritance"></a>
+
+## 🕸️ Inheritance — Web of Relationships
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Just like Miles Morales inherits abilities from the Spider-Verse, Java classes inherit properties and behavior from their parent class.
+
+**Code Web:** [Q3/Main.java](Q3/Main.java), [Q3/Employee.java](Q3/Employee.java), [Q3/Manager.java](Q3/Manager.java), [Q3/Developer.java](Q3/Developer.java), [Q8/Vehicle.java](Q8/Vehicle.java)
+
+<a id="polymorphism"></a>
+
+## 🎭 Polymorphism — Many Faces, One Hero
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Spider-Man may wear different suits, but the hero answers the same call; polymorphism lets one reference trigger different overridden behaviors.
+
+**Code Web:** [Q4/Main.java](Q4/Main.java), [Q4/Circle.java](Q4/Circle.java), [Q4/Rectangle.java](Q4/Rectangle.java), [Q4/Triangle.java](Q4/Triangle.java), [Q8/Main.java](Q8/Main.java)
+
+<a id="abstraction-encapsulation"></a>
+
+## 🛡️ Abstraction & Encapsulation — Hidden Identity
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Peter Parker protects his identity, and Java protects internals with abstraction, private data, and controlled access.
+
+**Code Web:** [Q4/Shape.java](Q4/Shape.java), [Q2/q2.java/BankAccount.java](Q2/q2.java/BankAccount.java), [Q6/Book.java](Q6/Book.java)
+
+<a id="exception-handling"></a>
+
+## ⚠️ Exception Handling — When Things Go Wrong (Villain Alert!)
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+When the plan goes sideways, exception handling catches the chaos before it crashes the whole mission.
+
+**Code Web:** [Q2/q2.java/q2.java](Q2/q2.java/q2.java), [Q2/q2.java/InsufficientBalaneException.java](Q2/q2.java/InsufficientBalaneException.java), [Q6/bookIssued.java](Q6/bookIssued.java), [Q9/Calculator.java](Q9/Calculator.java), [Q10/Main.java](Q10/Main.java)
+
+<a id="lambda-functions"></a>
+
+## ⚡ Lambda Functions — Quick Reflexes
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Lambdas are Java's quick reflex moves: short, sharp actions fired exactly where they are needed.
+
+**Code Web:** [Q19/Main.java](Q19/Main.java), [Q22/EmplyeeInfo.java](Q22/EmplyeeInfo.java)
+
+<a id="stream-api"></a>
+
+## 🌊 Stream API — Web-Slinging Through Data
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Streams swing through collections in a clean pipeline, filtering and mapping data without losing momentum.
+
+**Code Web:** [Q21/StudentMarks.java](Q21/StudentMarks.java), [Q22/EmplyeeInfo.java](Q22/EmplyeeInfo.java)
+
+<a id="interfaces"></a>
+
+## 🔗 Interfaces — The Avengers Contract
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+An interface is the team contract: every hero can be different, but each one agrees to the required moves.
+
+**Code Web:** [Q4/Shape.java](Q4/Shape.java), [Q1/q1_a/q1_b/Result.java](Q1/q1_a/q1_b/Result.java), [Q4/Main.java](Q4/Main.java)
+
+<a id="threading-multithreading"></a>
+
+## 🕷️ Threading/Multithreading — Multiverse of Madness
+
+<!-- KEEP EXISTING THEORY CONTENT HERE -->
+Threads are parallel Spider-Verse timelines, each running its task while synchronization keeps shared resources from colliding.
+
+**Code Web:** [Q15/Main.java](Q15/Main.java), [Q16/Main.java](Q16/Main.java), [Q17/Main.java](Q17/Main.java), [Q18/Main.java](Q18/Main.java), [Q18/BankAccount.java](Q18/BankAccount.java)
+
+<details>
+<summary><strong>Original Repository Notes Preserved</strong></summary>
+
 # Java Mock Questions
 
 > A compact Java practice workspace covering object-oriented programming, exception handling, collections, multithreading, synchronization, lambdas, and Stream API usage.
@@ -19,6 +139,7 @@ Mock_ques/
 |-- Q11  Employee records using ArrayList
 |-- Q12  Unique roll numbers using HashSet
 |-- Q13  Student marks using HashMap
+|-- Q14  Product inventory using HashMap
 |-- Q15  Thread by extending Thread
 |-- Q16  Thread by implementing Runnable
 |-- Q17  Synchronized counter
@@ -167,7 +288,7 @@ java q2
 java Calculator
 java StudentMarks
 java EmplyeeInfo
-java Mian
+java Mainn
 ```
 
 Run each question from its own folder because many folders reuse class names like `Main`, `Employee`, and `Student`.
@@ -321,7 +442,7 @@ Concepts used:
 
 ### Q12: Unique Roll Numbers Using HashSet
 
-`Mian` accepts roll numbers and stores them in a `HashSet<Integer>`.
+`Mainn` accepts roll numbers and stores them in a `HashSet<Integer>`.
 
 Since sets do not allow duplicates, only unique roll numbers are retained. The program then searches for a roll number, removes one, and prints the final set.
 
@@ -332,7 +453,7 @@ Concepts used:
 - Search
 - Remove operation
 
-Note: the class name is spelled `Mian`, so run it using `java Mian`.
+Note: the main class is spelled `Mainn`, so run it using `java Mainn`.
 
 ### Q13: Student Marks Using HashMap
 
@@ -353,6 +474,30 @@ Concepts used:
 - Iteration using `keySet()`
 
 Note: the question comment mentions finding the highest marks, but the current implementation does not yet include that final step.
+
+### Q14: Product Inventory Using HashMap
+
+This question maintains product inventory using a `HashMap<Integer, Integer>`, where product IDs are stored as keys and available quantities are stored as values.
+
+Operations performed:
+
+- Add products
+- Update product quantity
+- Search product availability
+- Remove a product
+- Display all products with quantities
+
+The search operation checks whether a product ID exists first, then reports whether the product is in stock or out of stock based on quantity.
+
+Concepts used:
+
+- `HashMap`
+- Menu-driven program
+- `containsKey()`
+- `put()`, `get()`, and `remove()`
+- Product availability checking
+
+Note: `Product.java` defines a basic `Product` class, but the current menu-driven implementation in `Main.java` directly uses a `HashMap<Integer, Integer>` instead of storing `Product` objects.
 
 ### Q15: Thread by Extending Thread
 
@@ -483,16 +628,16 @@ Concepts used:
 ## Codebase Notes
 
 - Several folders contain `.class` files generated by earlier compilation. They are not required in source control if this becomes a Git project.
-- Some class/file names contain typos such as `Mian`, `EmplyeeInfo`, and `InsufficientBalaneException`.
+- Some class/file names contain typos such as `Mainn`, `EmplyeeInfo`, and `InsufficientBalaneException`.
 - Some comments contain encoding artifacts where the rupee symbol appears incorrectly.
-- A few questions are missing from the folder sequence, such as Q5, Q7, Q14, and Q20.
+- A few questions are missing from the folder sequence, such as Q5, Q7, and Q20.
 - Since many folders reuse class names like `Main` and `Employee`, compile and run one question folder at a time.
 
 ## Suggested Learning Flow
 
 1. Start with Q1, Q3, Q4, and Q8 for OOP fundamentals.
 2. Move to Q2, Q6, Q9, and Q10 for exception handling.
-3. Practice Q11, Q12, and Q13 for collections.
+3. Practice Q11, Q12, Q13, and Q14 for collections.
 4. Study Q15 to Q18 for threading and synchronization.
 5. Finish with Q19, Q21, and Q22 for Java 8 functional programming.
 
@@ -519,3 +664,13 @@ java EmplyeeInfo
 ## Summary
 
 This workspace gives a practical overview of core Java programming. It starts from simple classes and object arrays, then builds toward polymorphism, custom exceptions, collections, multithreading, synchronization, lambdas, and stream-based data processing. The examples are small enough to revise quickly but broad enough to cover the major concepts usually expected in Java practical exams and mock assignments.
+
+</details>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=omkar-Riptide&style=for-the-badge&color=8B0000&label=Profile%20Views)
+
+![Thwip Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8B0000,100:1E3A8A&text=Thwip!%20Thanks%20for%20visiting%20%F0%9F%95%B8%EF%B8%8F&fontColor=FFFFFF&fontSize=30&fontAlignY=72&animation=twinkling)
+
+</div>
